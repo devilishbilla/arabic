@@ -1,0 +1,122 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: #111;
+    color: #fff;
+}
+.card1{
+    position: relative;
+    /* margin-top: 50px; */
+}
+
+.cardmiddle{
+
+    /* padding: 0px 40px; */
+    margin: 0px 50px;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    
+} 
+
+
+
+.card{
+    
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-top: 100px;
+}
+
+.first{
+    
+    text-align: center;
+    height: 57px;
+    font-size: 30px;
+    background-color: #1c1d1e;
+    border-radius: 25px 25px 0px 0px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.first1{
+    background-color: #12A9C9;
+}
+.first span{
+    background: unset;
+}
+.secondtop{
+    
+    height: 165px;
+
+}
+.second{
+    /* width: 261px; */
+    /* height: 263px; */
+    display: flex;
+    flex-direction: column-reverse;
+}
+.third{
+    position: absolute;
+    bottom: 33px;
+    right: 95px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: unset;
+}
+.third1{
+    /* position: absolute;
+    bottom: 33px;
+    right: 95px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: unset; */
+    bottom: 29px;
+    right: 131px;
+}
+
+.third div{
+    background: unset;
+    padding: 7px 0px;
+}
+.third1 div{
+    background: unset;
+    padding: 12px 0px;
+}
+
+.third p {
+    background: unset;
+}
+.third img{
+    background: unset;
+}
+
+.third span{
+    background: unset;
+    font-size: 10px;
+    padding-left: 5px;
+}
+.spantext{
+    font-size: 4px !important;
+}
+.text1{
+    font-size: 10px;
+}
+
+.btn2{
+    width: 73px;
+    height:25px;
+    border-radius: 12px;
+}
+.btn4{
+    width: 88px;
+    height: 30px;
+    border-radius: 12px;
+    background-color: #12A9C9;
+}
+/* .cardmiddle :hover{
+    cursor: pointer;
+} */
