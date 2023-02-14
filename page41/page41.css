@@ -16,6 +16,9 @@ body{
 .right-top img{
     width: 100%;
 }
+.right-top:hover {
+   cursor: pointer;
+}
 .right-bottom{
     display: flex;
     align-items: center;
@@ -102,6 +105,8 @@ font-weight: bold;
 }
 .btn :hover{
     cursor: pointer;
+    background-color: aliceblue;
+    color:#111111;
 }
 
 .btn button{
